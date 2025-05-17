@@ -14,7 +14,7 @@ Estudiante de Ingeniería en Sistemas | Backend · Frontend (básico) · Bases d
 ---
 
 ### 🌐 Conéctate conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofía%20S.%20Jiménez-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sofia-s-jimenez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofía%20S.%20Jiménez-blue?logo=linkedin&style=flat)](www.linkedin.com/in/sofiasanchezj)
 
 ---
 
