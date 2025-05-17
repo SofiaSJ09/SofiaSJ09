@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Sofía S. Jiménez</h1>
 <p align="center">
-Estudiante de Ingeniería en Sistemas | Backend · Frontend (básico)· Bases de Datos
+Estudiante de Ingeniería en Sistemas | Backend · Frontend (básico) · Bases de Datos
 </p>
 
 ---
